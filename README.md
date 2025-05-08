@@ -1,5 +1,7 @@
 # Fake News Detection
 
+
+
 ## About
 This is an certification purpose-oriented Data Science project of an international workshop - The Data Forge: Workshop and Contest, organized by NSDC-HerWILL Chapter Program. NSDC is the Northeast Big Data Innovation Hub’s National Student Data Corps (NSDC), part of Columbia University’s Data Science Institute.
 
@@ -39,14 +41,10 @@ Multinomial Naive Bayes (`MultinomialNB` function from `sklearn.naive_bayes` pac
 ## Data Visualization
 To visualize the word frequnecy for a specific word label, `WordCloud` function from the `wordcloud` package was used.
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Fake-News-Detection/blob/main/real_news.png" alt="Real News" width="300"/></td>
-  </tr>
-  <tr>
-    <td align="center"> Fig: Frequently used words having real news </td>   
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ArnabUshna24/Fake-News-Detection/main/real_news.png" alt="Real News" width="300"/>
+  <p> Fig. Frequently used words having real news </p>
+</div>
 
 
 ## Model Accuracy
