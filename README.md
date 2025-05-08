@@ -7,7 +7,7 @@ This is an certification purpose-oriented Data Science project of an internation
 
 
 ## Overview
-This project aims to give prediction about a news article - whether it is real or fake. It serves following aspects:
+This project aims to give prediction about news articles - whether they are real or fake. It serves following aspects:
 
 * Retrieving and accessing the target `.csv` file;
 * Cleaning the data and preprocessing them;
@@ -16,7 +16,7 @@ This project aims to give prediction about a news article - whether it is real o
 
 
 ## Data Extraction
-For this project, [this link](https://raw.githubusercontent.com/raima2001/HerWILL-NSDC-DS-Contest/main/news_dataset_subset%20(1).csv) was used, which contains 7,000 data pre-labeled with two word labels - real and fake. The dataset was accessed using `read_csv` function. The dataset has two (2) columns - `text` and `word_label`.
+For this project, [this link](https://raw.githubusercontent.com/raima2001/HerWILL-NSDC-DS-Contest/main/news_dataset_subset%20(1).csv) was used, which contains 7,000 data pre-labeled with two word labels - `real` and `fake`. The dataset was accessed using `read_csv` function. The dataset has two (2) columns - `text` and `word_label`.
 
 
 ## Data Preprocessing
