@@ -50,9 +50,17 @@ To visualize the word frequnecy for a specific word label, `WordCloud` function 
 ## Model Accuracy
 <table>
   <tr>
-    <td align="left"> Multinomial Naive Bayes: 0.7905 </td>
-    <td align="left"> Support Vector Machine: 0.5325 </td>
+    <th align="left"> Model </th>
+    <th align="center"> Multinomial Naive Bayes </th>
+    <th align="center"> Support Vector Machine </th>
   </tr>
+
+  <tr>
+    <td align="left"> Accuracy </td>
+    <td align="center"> 0.7905 </td>
+    <td align="center"> 0.5325 </td>
+  </tr>
+  
 </table>
 
 
