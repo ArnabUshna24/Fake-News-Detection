@@ -65,7 +65,7 @@ To visualize the word frequnecy for a specific word label, `WordCloud` function 
 
 
 ## Build from Source
-Instructions are provided in the `ipynb` file.
+Instructions are provided in the `.ipynb` file.
 
 
 If you have any queries, contact me: arnabnushna24@gmail.com
